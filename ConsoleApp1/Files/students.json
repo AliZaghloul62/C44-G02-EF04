@@ -1,0 +1,5 @@
+[
+  { "FName": "Ali", "LName": "Zaghloul", "Age": 22, "Address": "Cairo", "Dep_Id": 4 },
+  { "FName": "Mona", "LName": "Hassan", "Age": 21, "Address": "Alex", "Dep_Id": 5 },
+  { "FName": "Omar", "LName": "Khaled", "Age": 23, "Address": "Giza", "Dep_Id": 6 }
+]

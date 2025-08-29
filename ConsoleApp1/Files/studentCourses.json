@@ -1,0 +1,5 @@
+[
+  { "Stud_Id": 7, "Course_Id": 1, "Grade": 90 },
+  { "Stud_Id": 8, "Course_Id": 2, "Grade": 85 },
+  { "Stud_Id": 9, "Course_Id": 3, "Grade": 95 }
+]
